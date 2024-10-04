@@ -1,0 +1,9 @@
+###Belly Button Challenge
+The Belly Button Biodiversity Dashboard is an interactive web application that visualizes data from belly button biodiversity samples.
+What I Did:
+1.Fetched Data with D3: I used D3.js to fetch data from a JSON file
+2.Built Bar Chart: I used Plotly.js to create a horizontal bar chart that displays the top 10 bacteria cultures for each sample. This chart updates based on the selected sample.
+3.Built Bubble Chart: I also used Plotly.js to create a bubble chart that visualizes all bacteria cultures in the sample, where the size of the bubbles represents the sample value.
+4.Added Interactivity: I created an optionChanged() function that listens for changes in the dropdown and updates both the metadata panel and charts dynamically.
+
+Sara Joulaei 3 oct-2024
